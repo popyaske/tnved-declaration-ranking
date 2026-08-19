@@ -119,7 +119,7 @@ python run.py --data ./data --out ./out
 ```
 .
 ├── run.py                  # основной скрипт
-├── requirements.txt        # зависимости
+├── requirements.lock        # зависимости
 ├── README.md
 ├── error_analysis.md       # разбор пяти ошибок
 ├── data/                   # входные данные
