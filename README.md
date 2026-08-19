@@ -62,6 +62,13 @@ score = 0.3 * BM25_score_norm + 0.7 * cosine_similarity(embedding)
 
 ### Инструкция по установке и запуску
 
+#### Клонирование репозитория
+
+```bash
+git clone https://github.com/popyaske/tnved-declaration-ranking.git
+cd tnved-declaration-ranking
+```
+
 #### Требования
 - Python 3.8+
 - 8 ГБ ОЗУ (рекомендуется)
